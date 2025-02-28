@@ -1,0 +1,17 @@
+=VLOOKUP(D6,Sheet2!D$7:E$12,2,0)
+d6---->comparing coloumns
+sheet2---> which sheet present another comparing valuse 
+D7:E12------> comapring  2 colums required drag---(ctl+shift+  -> + down arrow)
+2------> how many coloumns u have selected give the number
+0------> equality (comparing)
+D$7:E$12 -->after freez the values by using $
+enter & drag requried out is comming 
+
+----------------------------------------------------------------
+
+Notepad ++
+copy ->ctrl+j ---COLOUMNS to ROWS 
+1
+2
+3
+1 2 3 
